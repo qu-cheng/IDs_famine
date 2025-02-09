@@ -4,7 +4,7 @@ This repository contains data and code for reproducing the analyses in Elevated 
 
 ## Data
 
-- 11.by_sex_pref_disease.data.csv cotains the reported case count of cases for each of the 11 studied infectious diseases reported in Sichuan Province during the period from 2005–2022 by age, sex, year of diagnosis, and prefecture of residence.
+- 11.by_sex_pref_disease.data.csv: the reported case count of cases for each of the 11 studied infectious diseases reported in Sichuan Province during the period from 2005–2022 by age, sex, year of diagnosis, and prefecture of residence.
 - provincial_model_data.rds and prefecture_model_data.rds: the nested data used for fitting Bayesian APC models at the provincial and prefecture levels, respectively.
 - pop.by_pref_age_sex_2005-2022.csv: the population size stratified by age, sex, year, and prefecture of residence.
 - Famine intensity by pref.csv: the cohort size shrinkage index (CSSI) representing famine intensity of 21 prefectures. 
